@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="assets/banner.png" alt="Banner del proyecto" width="800" height="300">
+    <img src="banner.jpg.jpg" alt="Banner del proyecto" width="800" height="300">
 </div>
 
 ---
