@@ -22,9 +22,9 @@
 
 | Nombre | Código | Correo |
 |--------|--------|--------|
-| Nombre Apellido | 2200000 | correo@correo.com |
-| Nombre Apellido | 2200000 | correo@correo.com |
-| Nombre Apellido | 2200000 | correo@correo.com |
+| Sara Gamboa Morales | 2251886 | sara2251886@correo.uis.edu.co |
+| Andrés Gonzalez Suarez | 2252108 | andres2252108@correo.uis.edu.co |
+| Santiago Muñoz Mantilla | 2251514 | santiago2251514@correo.uis.edu.co |
 
 **Curso:** Aprendizaje de Máquina · **Universidad:** UIS · **Semestre:** 2026-2
 
