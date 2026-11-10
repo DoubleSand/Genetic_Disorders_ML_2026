@@ -83,16 +83,6 @@ Proyecto que busca predecir la categoría de trastorno genético de un paciente 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
-## 📁 Estructura del repositorio
-
-```
-genetic-disorders-ml/
-├── assets/
-│   └── banner.png
-├── MAIN_Genetic_Disorders_ML.ipynb
-├── requirements.txt
-└── README.md
-```
 
 ## ▶️ Cómo ejecutarlo
 
