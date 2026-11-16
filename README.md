@@ -5,7 +5,7 @@
 **Clasificación de trastornos genéticos con Machine Learning**
 
 <a href="https://youtu.be/TU_VIDEO"><img src="https://img.shields.io/badge/▶_Video-Presentación-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video"></a>
-<a href="https://colab.research.google.com/github/TU_USUARIO/genetic-disorders-ml/blob/main/MAIN_Genetic_Disorders_ML.ipynb"><img src="https://img.shields.io/badge/📓_Código-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Código"></a>
+<a href="https://colab.research.google.com/github/gi.gamor/genetic-disorders-ml/blob/main/MAIN_Genetic_Disorders_ML.ipynb"><img src="https://img.shields.io/badge/📓_Código-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Código"></a>
 <a href="https://LINK_A_TU_DATASET"><img src="https://img.shields.io/badge/🗂️_Base_de_datos-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Dataset"></a>
 
 </div>
@@ -71,7 +71,7 @@ Proyecto que busca predecir la categoría de trastorno genético de un paciente 
 |--------|----------|--------|----|
 | Random Forest | - | - | - |
 
-<!-- Pega aquí la matriz de confusión: ![Matriz de confusión](assets/confusion_matrix.png) -->
+![Matriz de confusión](assets/confusion_matrix.png)
 
 ## 🛠️ Tecnologías
 
