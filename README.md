@@ -5,8 +5,8 @@
 **Clasificación de trastornos genéticos con Machine Learning**
 
 <a href="https://youtu.be/TU_VIDEO"><img src="https://img.shields.io/badge/▶_Video-Presentación-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video"></a>
-<a href="https://colab.research.google.com/github/gi.gamor/genetic-disorders-ml/blob/main/MAIN_Genetic_Disorders_ML.ipynb"><img src="https://img.shields.io/badge/📓_Código-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Código"></a>
-<a href="https://LINK_A_TU_DATASET"><img src="https://img.shields.io/badge/🗂️_Base_de_datos-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Dataset"></a>
+<a href="https://colab.research.google.com/drive/1sHn9NzLSGzU-4WMOkfstfymRcw7mitiN?usp=drive_link"><img src="https://img.shields.io/badge/📓_Código-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Código"></a>
+<a href="https://drive.google.com/file/d/1wEwmO2Htfq3SxYNV7CY6IIINRLgi5GnH/view?usp=sharing"><img src="https://img.shields.io/badge/🗂️_Base_de_datos-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Dataset"></a>
 
 </div>
 
