@@ -52,7 +52,7 @@ Proyecto que busca predecir la categoría de trastorno genético de un paciente 
   - Mitochondrial genetic inheritance disorders
   - Single-gene inheritance diseases
   - Multifactorial genetic inheritance disorders
-- **Fuente:** [enlace al dataset](https://LINK_A_TU_DATASET)
+- **Fuente:** [enlace al dataset](https://drive.google.com/file/d/1wEwmO2Htfq3SxYNV7CY6IIINRLgi5GnH/view?usp=drive_link)
 
 > El dataset no se incluye en el repositorio. Descárgalo y ajusta la ruta en la primera celda del notebook.
 
