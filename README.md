@@ -65,13 +65,6 @@ Proyecto que busca predecir la categoría de trastorno genético de un paciente 
 5. **Modelado:** prueba binaria con cuatro modelos y luego modelo final multiclase.
 6. **Evaluación:** partición 70/15/15 (entrenamiento, validación, prueba), reporte de clasificación y matriz de confusión.
 
-## 📊 Resultados
-
-| Modelo | Accuracy | Recall | F1 |
-|--------|----------|--------|----|
-| Random Forest | - | - | - |
-
-![Matriz de confusión](assets/confusion_matrix.png)
 
 ## 🛠️ Tecnologías
 
